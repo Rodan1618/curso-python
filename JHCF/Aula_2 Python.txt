@@ -1,0 +1,16 @@
+IOS Developer
+
+Apple Developer Academies
+
+Ctrl+ B
+
+Texto String não soma com int número
+
+VSCODE
+Crtl + ; para fazer comentário
+
+Payames (pygames)
+
+Gerenciador de pacotes (pesquisar)
+
+APTget VsCode (para instalar VsCode no Linux)

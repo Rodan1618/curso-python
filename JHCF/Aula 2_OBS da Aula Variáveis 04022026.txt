@@ -1,0 +1,29 @@
+Concatenação Como faço
+f (_) = fString Como faço
+varialvel o que é e como faço
+
+
+# # isApproved = False
+# # isTeste = True #Boleano
+# # name = "Maria"
+# # age = 20
+# # height = 1.97
+
+# # print(isApproved)
+# # print(isTeste)
+# # print(name)
+# # print(age)
+# # print(height)
+
+# # print(isApproved, isTeste, name, age, height)
+# # print(f'{isApproved}, {isTeste}')
+
+# nome = "Luiza Martins" 
+# idade = 37
+# profissao = "design research"
+
+# fstring = f"Oi, eu sou a {nome}, tenho {idade} e minha profissão é {profissao}" 
+# #f String >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>é uma maneira mais limpa de concatenar
+
+# print(f"Oi, eu sou a {nome}, tenho {idade} e minha profissão é {profissao}")
+# print(fstring)
